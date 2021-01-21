@@ -1,5 +1,5 @@
-<h1 align="center">Statistics assignments</h1>
-<h4 align="center">Repository which contains the assignments of the statistical data analysis course of the EIT Digital data science master at <a href="https://www.upm.es/">UPM</a></h4>
+<h1 align="center">Deep learning assignments</h1>
+<h4 align="center">Repository containing the assignments of deep learning course of the EIT digital master's degree in data science at <a href="https://www.upm.es/">UPM</a>📚.</h4>
 
 <p align="center">
   <img alt="UPM" src="https://img.shields.io/badge/EIT%20Digital-UPM-blue?style=flat-square">
